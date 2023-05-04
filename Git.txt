@@ -8,4 +8,8 @@ Git was created by Linus Torvalds in 2005 to develop Linux Kernel. It is also us
 
 Git is easy to learn, and has fast performance. It is superior to other SCM tools like Subversion, CVS, Perforce, and ClearCase.
 
+<<<<<<< HEAD
 Changes made by pallavi-bolar
+=======
+Changes made by pallavibolar7
+>>>>>>> 7bbc80b90737c5ca9717ab1996d954c2c3bfab7c
