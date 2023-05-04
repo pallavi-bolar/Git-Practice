@@ -7,4 +7,4 @@ Steps:
 1. Make changes to a file
 2. Add the changes to staging area
 3. Commit the changes
-4. Push the changes
+4. Push the changes..
