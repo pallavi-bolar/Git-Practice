@@ -1,0 +1,23 @@
+Git commands:
+
+REVERT
+1. Revert after adding a file to staged area
+git restore --staged filename
+
+
+2. Revert after committing a file to a particular commit id
+git reset --hard previouscommitid
+
+
+STASH
+Git stash save filrname ""
+
+git status
+
+git stash list
+
+git stash apply stashid
+
+git status
+git add
+git commit
